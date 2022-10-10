@@ -10,3 +10,4 @@ adds the result of a command into a file
 a script that duplicates last lines of a file
 delete a file with .js extension
 count the number of directories and subdirectories
+display 10 newest files
