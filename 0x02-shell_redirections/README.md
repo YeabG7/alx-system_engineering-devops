@@ -12,3 +12,4 @@ delete a file with .js extension
 count the number of directories and subdirectories
 display 10 newest files
  takes a list of words as input and prints only words that appear exactly once
+lines containing the pattern “root” from the file
