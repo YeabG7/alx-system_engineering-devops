@@ -8,3 +8,4 @@ display the third line of a file
 create a file beginnning with special character
 adds the result of a command into a file
 a script that duplicates last lines of a file
+delete a file with .js extension
